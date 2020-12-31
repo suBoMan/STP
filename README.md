@@ -1,2 +1,0 @@
-# STP
-Spring Template Project
